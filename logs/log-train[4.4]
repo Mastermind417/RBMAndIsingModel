@@ -1,0 +1,598 @@
+Running paysage with the python backend on the cpu
+Start:  25/12/2019 18:10:44
+Temperature:  1.0
+Shape of data for T = 1.0: (10000, 64)
+Temperature:  1.05
+Shape of data for T = 1.05: (10000, 64)
+Temperature:  1.1
+Shape of data for T = 1.1: (10000, 64)
+Temperature:  1.1500000000000001
+Shape of data for T = 1.1500000000000001: (10000, 64)
+Temperature:  1.2000000000000002
+Shape of data for T = 1.2000000000000002: (10000, 64)
+Temperature:  1.2500000000000002
+Shape of data for T = 1.2500000000000002: (10000, 64)
+Temperature:  1.3000000000000003
+Shape of data for T = 1.3000000000000003: (10000, 64)
+Temperature:  1.3500000000000003
+Shape of data for T = 1.3500000000000003: (10000, 64)
+Temperature:  1.4000000000000004
+Shape of data for T = 1.4000000000000004: (10000, 64)
+Temperature:  1.4500000000000004
+Shape of data for T = 1.4500000000000004: (10000, 64)
+Temperature:  1.5000000000000004
+Shape of data for T = 1.5000000000000004: (10000, 64)
+Temperature:  1.5500000000000005
+Shape of data for T = 1.5500000000000005: (10000, 64)
+Temperature:  1.6000000000000005
+Shape of data for T = 1.6000000000000005: (10000, 64)
+Temperature:  1.6500000000000006
+Shape of data for T = 1.6500000000000006: (10000, 64)
+Temperature:  1.7000000000000006
+Shape of data for T = 1.7000000000000006: (10000, 64)
+Temperature:  1.7500000000000007
+Shape of data for T = 1.7500000000000007: (10000, 64)
+Temperature:  1.8000000000000007
+Shape of data for T = 1.8000000000000007: (10000, 64)
+Temperature:  1.8500000000000008
+Shape of data for T = 1.8500000000000008: (10000, 64)
+Temperature:  1.9000000000000008
+Shape of data for T = 1.9000000000000008: (10000, 64)
+Temperature:  1.9500000000000008
+Shape of data for T = 1.9500000000000008: (10000, 64)
+Temperature:  2.000000000000001
+Shape of data for T = 2.000000000000001: (10000, 64)
+Temperature:  2.0500000000000007
+Shape of data for T = 2.0500000000000007: (10000, 64)
+Temperature:  2.100000000000001
+Shape of data for T = 2.100000000000001: (10000, 64)
+Temperature:  2.1500000000000012
+Shape of data for T = 2.1500000000000012: (10000, 64)
+Temperature:  2.200000000000001
+Shape of data for T = 2.200000000000001: (10000, 64)
+Temperature:  2.250000000000001
+Shape of data for T = 2.250000000000001: (10000, 64)
+Temperature:  2.300000000000001
+Shape of data for T = 2.300000000000001: (10000, 64)
+Temperature:  2.3500000000000014
+Shape of data for T = 2.3500000000000014: (10000, 64)
+Temperature:  2.4000000000000012
+Shape of data for T = 2.4000000000000012: (10000, 64)
+Temperature:  2.450000000000001
+Shape of data for T = 2.450000000000001: (10000, 64)
+Temperature:  2.5000000000000013
+Shape of data for T = 2.5000000000000013: (10000, 64)
+Temperature:  2.5500000000000016
+Shape of data for T = 2.5500000000000016: (10000, 64)
+Temperature:  2.6000000000000014
+Shape of data for T = 2.6000000000000014: (10000, 64)
+Temperature:  2.6500000000000012
+Shape of data for T = 2.6500000000000012: (10000, 64)
+Temperature:  2.7000000000000015
+Shape of data for T = 2.7000000000000015: (10000, 64)
+Temperature:  2.7500000000000018
+Shape of data for T = 2.7500000000000018: (10000, 64)
+Temperature:  2.8000000000000016
+Shape of data for T = 2.8000000000000016: (10000, 64)
+Temperature:  2.8500000000000014
+Shape of data for T = 2.8500000000000014: (10000, 64)
+Temperature:  2.9000000000000017
+Shape of data for T = 2.9000000000000017: (10000, 64)
+Temperature:  2.950000000000002
+Shape of data for T = 2.950000000000002: (10000, 64)
+Temperature:  3.0000000000000018
+Shape of data for T = 3.0000000000000018: (10000, 64)
+Temperature:  3.0500000000000016
+Shape of data for T = 3.0500000000000016: (10000, 64)
+Temperature:  3.100000000000002
+Shape of data for T = 3.100000000000002: (10000, 64)
+Temperature:  3.150000000000002
+Shape of data for T = 3.150000000000002: (10000, 64)
+Temperature:  3.200000000000002
+Shape of data for T = 3.200000000000002: (10000, 64)
+Temperature:  3.2500000000000018
+Shape of data for T = 3.2500000000000018: (10000, 64)
+Temperature:  3.300000000000002
+Shape of data for T = 3.300000000000002: (10000, 64)
+Temperature:  3.3500000000000023
+Shape of data for T = 3.3500000000000023: (10000, 64)
+Temperature:  3.400000000000002
+Shape of data for T = 3.400000000000002: (10000, 64)
+Temperature:  3.450000000000002
+Shape of data for T = 3.450000000000002: (10000, 64)
+Temperature:  3.500000000000002
+Shape of data for T = 3.500000000000002: (10000, 64)
+Temperature:  3.5500000000000025
+Shape of data for T = 3.5500000000000025: (10000, 64)
+Temperature:  3.6000000000000023
+Shape of data for T = 3.6000000000000023: (10000, 64)
+Temperature:  3.650000000000002
+Shape of data for T = 3.650000000000002: (10000, 64)
+Temperature:  3.7000000000000024
+Shape of data for T = 3.7000000000000024: (10000, 64)
+Temperature:  3.7500000000000027
+Shape of data for T = 3.7500000000000027: (10000, 64)
+Temperature:  3.8000000000000025
+Shape of data for T = 3.8000000000000025: (10000, 64)
+Temperature:  3.8500000000000023
+Shape of data for T = 3.8500000000000023: (10000, 64)
+Temperature:  3.9000000000000026
+Shape of data for T = 3.9000000000000026: (10000, 64)
+Temperature:  3.950000000000003
+Shape of data for T = 3.950000000000003: (10000, 64)
+Temperature:  4.000000000000003
+Shape of data for T = 4.000000000000003: (10000, 64)
+training in the T = 1.00 phase
+use persistent contrastive divergence to fit the model
+Before training:
+-ReconstructionError: 1.371340
+-EnergyCoefficient: 0.446967
+-HeatCapacity: 0.068545
+-WeightSparsity: 0.354276
+-WeightSquare: 0.059782
+-KLDivergence: 17.420666
+-ReverseKLDivergence: 0.097593
+
+End of epoch 1: 
+Time elapsed 92.339s
+-ReconstructionError: 0.027880
+-EnergyCoefficient: 0.743524
+-HeatCapacity: 1.154350
+-WeightSparsity: 0.401900
+-WeightSquare: 0.484190
+-KLDivergence: 9.944637
+-ReverseKLDivergence: 0.020203
+
+End of epoch 2: 
+Time elapsed 96.124s
+-ReconstructionError: 0.027880
+-EnergyCoefficient: 0.743524
+-HeatCapacity: 1.026716
+-WeightSparsity: 0.436975
+-WeightSquare: 0.646404
+-KLDivergence: 9.944637
+-ReverseKLDivergence: 0.020203
+
+End of epoch 3: 
+Time elapsed 99.391s
+-ReconstructionError: 0.027880
+-EnergyCoefficient: 0.743524
+-HeatCapacity: 0.719830
+-WeightSparsity: 0.470603
+-WeightSquare: 0.754519
+-KLDivergence: 9.944637
+-ReverseKLDivergence: 0.020203
+
+End of epoch 4: 
+Time elapsed 193.606s
+-ReconstructionError: 0.027880
+-EnergyCoefficient: 0.743524
+-HeatCapacity: 0.646596
+-WeightSparsity: 0.496868
+-WeightSquare: 0.841741
+-KLDivergence: 9.944637
+-ReverseKLDivergence: 0.020203
+
+End of epoch 5: 
+Time elapsed 209.593s
+-ReconstructionError: 0.027880
+-EnergyCoefficient: 0.743524
+-HeatCapacity: 0.552136
+-WeightSparsity: 0.518263
+-WeightSquare: 0.910314
+-KLDivergence: 9.944637
+-ReverseKLDivergence: 0.020203
+
+training in the T = 1.05 phase
+use persistent contrastive divergence to fit the model
+Before training:
+-ReconstructionError: 1.343253
+-EnergyCoefficient: 0.426883
+-HeatCapacity: 0.072411
+-WeightSparsity: 0.354827
+-WeightSquare: 0.060298
+-KLDivergence: 17.085177
+-ReverseKLDivergence: 0.066754
+
+End of epoch 1: 
+Time elapsed 253.464s
+-ReconstructionError: 0.044977
+-EnergyCoefficient: 0.705894
+-HeatCapacity: 1.281491
+-WeightSparsity: 0.469966
+-WeightSquare: 0.458927
+-KLDivergence: 8.748154
+-ReverseKLDivergence: 0.020203
+
+End of epoch 2: 
+Time elapsed 219.75s
+-ReconstructionError: 0.044977
+-EnergyCoefficient: 0.705894
+-HeatCapacity: 0.937123
+-WeightSparsity: 0.509989
+-WeightSquare: 0.614903
+-KLDivergence: 8.748154
+-ReverseKLDivergence: 0.020203
+
+End of epoch 3: 
+Time elapsed 217.594s
+-ReconstructionError: 0.044977
+-EnergyCoefficient: 0.705894
+-HeatCapacity: 0.715388
+-WeightSparsity: 0.543285
+-WeightSquare: 0.725653
+-KLDivergence: 8.748154
+-ReverseKLDivergence: 0.020203
+
+End of epoch 4: 
+Time elapsed 217.807s
+-ReconstructionError: 0.044977
+-EnergyCoefficient: 0.705894
+-HeatCapacity: 0.623342
+-WeightSparsity: 0.568908
+-WeightSquare: 0.845357
+-KLDivergence: 8.748154
+-ReverseKLDivergence: 0.020203
+
+End of epoch 5: 
+Time elapsed 215.75s
+-ReconstructionError: 0.044977
+-EnergyCoefficient: 0.705894
+-HeatCapacity: 0.403509
+-WeightSparsity: 0.592424
+-WeightSquare: 0.942834
+-KLDivergence: 8.748154
+-ReverseKLDivergence: 0.020203
+
+training in the T = 1.10 phase
+use persistent contrastive divergence to fit the model
+Before training:
+-ReconstructionError: 1.357773
+-EnergyCoefficient: 0.431748
+-HeatCapacity: 0.076020
+-WeightSparsity: 0.353357
+-WeightSquare: 0.059839
+-KLDivergence: 16.900170
+-ReverseKLDivergence: 0.092851
+
+End of epoch 1: 
+Time elapsed 209.035s
+-ReconstructionError: 0.052885
+-EnergyCoefficient: 0.693552
+-HeatCapacity: 1.317119
+-WeightSparsity: 0.462343
+-WeightSquare: 0.473807
+-KLDivergence: 8.583264
+-ReverseKLDivergence: 0.020203
+
+End of epoch 2: 
+Time elapsed 95.274s
+-ReconstructionError: 0.052885
+-EnergyCoefficient: 0.693552
+-HeatCapacity: 0.997146
+-WeightSparsity: 0.501877
+-WeightSquare: 0.646787
+-KLDivergence: 8.583264
+-ReverseKLDivergence: 0.020203
+
+End of epoch 3: 
+Time elapsed 94.104s
+-ReconstructionError: 0.052885
+-EnergyCoefficient: 0.693552
+-HeatCapacity: 0.690603
+-WeightSparsity: 0.525140
+-WeightSquare: 0.745180
+-KLDivergence: 8.583264
+-ReverseKLDivergence: 0.020203
+
+End of epoch 4: 
+Time elapsed 99.856s
+-ReconstructionError: 0.052885
+-EnergyCoefficient: 0.693552
+-HeatCapacity: 0.626959
+-WeightSparsity: 0.543535
+-WeightSquare: 0.842569
+-KLDivergence: 8.583264
+-ReverseKLDivergence: 0.020203
+
+End of epoch 5: 
+Time elapsed 93.672s
+-ReconstructionError: 0.052885
+-EnergyCoefficient: 0.693552
+-HeatCapacity: 0.569585
+-WeightSparsity: 0.565837
+-WeightSquare: 0.909838
+-KLDivergence: 8.583264
+-ReverseKLDivergence: 0.020203
+
+training in the T = 1.15 phase
+use persistent contrastive divergence to fit the model
+Before training:
+-ReconstructionError: 1.358615
+-EnergyCoefficient: 0.429105
+-HeatCapacity: 0.071143
+-WeightSparsity: 0.353147
+-WeightSquare: 0.059801
+-KLDivergence: 16.332368
+-ReverseKLDivergence: 0.097245
+
+End of epoch 1: 
+Time elapsed 92.542s
+-ReconstructionError: 0.078811
+-EnergyCoefficient: 0.715986
+-HeatCapacity: 1.507643
+-WeightSparsity: 0.314918
+-WeightSquare: 0.338527
+-KLDivergence: 8.784024
+-ReverseKLDivergence: 0.020203
+
+End of epoch 2: 
+Time elapsed 94.066s
+-ReconstructionError: 0.078811
+-EnergyCoefficient: 0.715986
+-HeatCapacity: 1.351823
+-WeightSparsity: 0.340894
+-WeightSquare: 0.462604
+-KLDivergence: 8.784024
+-ReverseKLDivergence: 0.020203
+
+End of epoch 3: 
+Time elapsed 92.38s
+-ReconstructionError: 0.078811
+-EnergyCoefficient: 0.715986
+-HeatCapacity: 1.225749
+-WeightSparsity: 0.367050
+-WeightSquare: 0.542639
+-KLDivergence: 8.784024
+-ReverseKLDivergence: 0.020203
+
+End of epoch 4: 
+Time elapsed 93.952s
+-ReconstructionError: 0.078811
+-EnergyCoefficient: 0.715986
+-HeatCapacity: 1.061665
+-WeightSparsity: 0.386547
+-WeightSquare: 0.624272
+-KLDivergence: 8.784024
+-ReverseKLDivergence: 0.020203
+
+End of epoch 5: 
+Time elapsed 93.874s
+-ReconstructionError: 0.078811
+-EnergyCoefficient: 0.715986
+-HeatCapacity: 0.953819
+-WeightSparsity: 0.414785
+-WeightSquare: 0.674397
+-KLDivergence: 8.784024
+-ReverseKLDivergence: 0.020203
+
+training in the T = 1.20 phase
+use persistent contrastive divergence to fit the model
+Before training:
+-ReconstructionError: 1.360696
+-EnergyCoefficient: 0.439976
+-HeatCapacity: 0.070484
+-WeightSparsity: 0.355825
+-WeightSquare: 0.059853
+-KLDivergence: 16.328498
+-ReverseKLDivergence: 0.113374
+
+End of epoch 1: 
+Time elapsed 91.962s
+-ReconstructionError: 0.076163
+-EnergyCoefficient: 0.714662
+-HeatCapacity: 1.451327
+-WeightSparsity: 0.458696
+-WeightSquare: 0.366063
+-KLDivergence: 8.747981
+-ReverseKLDivergence: 0.020203
+
+End of epoch 2: 
+Time elapsed 92.521s
+-ReconstructionError: 0.076163
+-EnergyCoefficient: 0.714662
+-HeatCapacity: 1.253142
+-WeightSparsity: 0.506406
+-WeightSquare: 0.489404
+-KLDivergence: 8.747981
+-ReverseKLDivergence: 0.020203
+
+End of epoch 3: 
+Time elapsed 93.995s
+-ReconstructionError: 0.076163
+-EnergyCoefficient: 0.714662
+-HeatCapacity: 1.081480
+-WeightSparsity: 0.543259
+-WeightSquare: 0.577888
+-KLDivergence: 8.747981
+-ReverseKLDivergence: 0.020203
+
+End of epoch 4: 
+Time elapsed 94.742s
+-ReconstructionError: 0.076163
+-EnergyCoefficient: 0.714662
+-HeatCapacity: 0.836395
+-WeightSparsity: 0.572311
+-WeightSquare: 0.657248
+-KLDivergence: 8.747981
+-ReverseKLDivergence: 0.020203
+
+End of epoch 5: 
+Time elapsed 94.225s
+-ReconstructionError: 0.076163
+-EnergyCoefficient: 0.714662
+-HeatCapacity: 0.784650
+-WeightSparsity: 0.593866
+-WeightSquare: 0.696458
+-KLDivergence: 8.747981
+-ReverseKLDivergence: 0.020203
+
+training in the T = 1.25 phase
+use persistent contrastive divergence to fit the model
+Before training:
+-ReconstructionError: 1.360801
+-EnergyCoefficient: 0.429643
+-HeatCapacity: 0.072501
+-WeightSparsity: 0.355126
+-WeightSquare: 0.059833
+-KLDivergence: 15.438049
+-ReverseKLDivergence: 0.100844
+
+End of epoch 1: 
+Time elapsed 91.578s
+-ReconstructionError: 0.099128
+-EnergyCoefficient: 0.725305
+-HeatCapacity: 1.365840
+-WeightSparsity: 0.378714
+-WeightSquare: 0.434154
+-KLDivergence: 8.683584
+-ReverseKLDivergence: 0.020203
+
+End of epoch 2: 
+Time elapsed 93.098s
+-ReconstructionError: 0.099128
+-EnergyCoefficient: 0.725305
+-HeatCapacity: 1.085268
+-WeightSparsity: 0.418225
+-WeightSquare: 0.550867
+-KLDivergence: 8.683584
+-ReverseKLDivergence: 0.020203
+
+End of epoch 3: 
+Time elapsed 93.98s
+-ReconstructionError: 0.099128
+-EnergyCoefficient: 0.725305
+-HeatCapacity: 0.952728
+-WeightSparsity: 0.453984
+-WeightSquare: 0.603972
+-KLDivergence: 8.683584
+-ReverseKLDivergence: 0.020203
+
+End of epoch 4: 
+Time elapsed 94.286s
+-ReconstructionError: 0.099128
+-EnergyCoefficient: 0.725305
+-HeatCapacity: 0.936449
+-WeightSparsity: 0.495278
+-WeightSquare: 0.646713
+-KLDivergence: 8.683584
+-ReverseKLDivergence: 0.020203
+
+End of epoch 5: 
+Time elapsed 94.135s
+-ReconstructionError: 0.099128
+-EnergyCoefficient: 0.725305
+-HeatCapacity: 0.856237
+-WeightSparsity: 0.538970
+-WeightSquare: 0.645959
+-KLDivergence: 8.683584
+-ReverseKLDivergence: 0.020203
+
+training in the T = 1.30 phase
+use persistent contrastive divergence to fit the model
+Before training:
+-ReconstructionError: 1.353189
+-EnergyCoefficient: 0.421284
+-HeatCapacity: 0.071799
+-WeightSparsity: 0.354832
+-WeightSquare: 0.059506
+-KLDivergence: 15.459455
+-ReverseKLDivergence: 0.080278
+
+End of epoch 1: 
+Time elapsed 92.31s
+-ReconstructionError: 0.099610
+-EnergyCoefficient: 0.693564
+-HeatCapacity: 1.317202
+-WeightSparsity: 0.481287
+-WeightSquare: 0.440744
+-KLDivergence: 7.982604
+-ReverseKLDivergence: 0.020203
+
+End of epoch 2: 
+Time elapsed 93.584s
+-ReconstructionError: 0.099610
+-EnergyCoefficient: 0.693564
+-HeatCapacity: 1.033459
+-WeightSparsity: 0.525838
+-WeightSquare: 0.534816
+-KLDivergence: 7.982604
+-ReverseKLDivergence: 0.020203
+
+End of epoch 3: 
+Time elapsed 94.666s
+-ReconstructionError: 0.099610
+-EnergyCoefficient: 0.693564
+-HeatCapacity: 0.944759
+-WeightSparsity: 0.556553
+-WeightSquare: 0.588028
+-KLDivergence: 7.982604
+-ReverseKLDivergence: 0.020203
+
+End of epoch 4: 
+Time elapsed 94.282s
+-ReconstructionError: 0.099610
+-EnergyCoefficient: 0.693564
+-HeatCapacity: 0.883401
+-WeightSparsity: 0.572920
+-WeightSquare: 0.607622
+-KLDivergence: 7.982604
+-ReverseKLDivergence: 0.020203
+
+End of epoch 5: 
+Time elapsed 93.589s
+-ReconstructionError: 0.099610
+-EnergyCoefficient: 0.693564
+-HeatCapacity: 0.950667
+-WeightSparsity: 0.585263
+-WeightSquare: 0.617113
+-KLDivergence: 7.982604
+-ReverseKLDivergence: 0.020203
+
+training in the T = 1.35 phase
+use persistent contrastive divergence to fit the model
+Before training:
+-ReconstructionError: 1.363308
+-EnergyCoefficient: 0.419523
+-HeatCapacity: 0.070960
+-WeightSparsity: 0.354119
+-WeightSquare: 0.059214
+-KLDivergence: 14.849233
+-ReverseKLDivergence: 0.109378
+
+End of epoch 1: 
+Time elapsed 91.084s
+-ReconstructionError: 0.116765
+-EnergyCoefficient: 0.677822
+-HeatCapacity: 1.290344
+-WeightSparsity: 0.449831
+-WeightSquare: 0.398091
+-KLDivergence: 7.144966
+-ReverseKLDivergence: 0.020203
+
+End of epoch 2: 
+Time elapsed 92.72s
+-ReconstructionError: 0.116765
+-EnergyCoefficient: 0.677822
+-HeatCapacity: 1.203520
+-WeightSparsity: 0.495643
+-WeightSquare: 0.484549
+-KLDivergence: 7.144966
+-ReverseKLDivergence: 0.020203
+
+End of epoch 3: 
+Time elapsed 93.217s
+-ReconstructionError: 0.116765
+-EnergyCoefficient: 0.677822
+-HeatCapacity: 1.262519
+-WeightSparsity: 0.527902
+-WeightSquare: 0.514415
+-KLDivergence: 7.144966
+-ReverseKLDivergence: 0.020203
+
+End of epoch 4: 
+Time elapsed 93.412s
+-ReconstructionError: 0.116765
+-EnergyCoefficient: 0.677822
+-HeatCapacity: 0.996521
+-WeightSparsity: 0.556646

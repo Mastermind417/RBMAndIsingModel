@@ -1,0 +1,17 @@
+def prepare_mask(tensor):
+    """
+    This is for two points constraining.
+    """
+    return zero_mask(tensor, adjust_W_two_point(image_shape[0] * image_shape[1], num_hidden_units[j_]))
+--
+def prepare_mask2(tensor):
+    """
+    This is for nearest neighbours constraining.
+    """
+    return zero_mask(tensor, adjust_W_nearest_neighbour(image_shape[0] * image_shape[1], num_hidden_units[j_]))
+--
+def prepare_mask3(tensor):
+    """
+    This is for nearest neighbours with two points constraining.
+    """
+    return zero_mask(tensor, adjust_W_two_point_with_nearest_neighbour(image_shape[0] * image_shape[1], num_hidden_units[j_]))
